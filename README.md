@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Mohammed Shuaib A
 
-<!--
-**mohammedshuaib3232/mohammedshuaib3232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AWS DevOps & Cloud Engineer
 
-Here are some ideas to get you started:
+🚀 Passionate about Cloud Computing, DevOps, and Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌩️ AWS & DevOps Enthusiast
+- 🔧 Skilled in Jenkins, Docker, Kubernetes, Git, Linux
+- ☁️ Hands-on with AWS (EC2, S3, IAM, VPC, CloudWatch)
+- 📦 Experience with CI/CD Pipelines
+- 🐍 Basic Python and Shell Scripting
+- 🎯 Seeking DevOps Engineer / Cloud Engineer opportunities
+
+## 🛠️ Tech Stack
+
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- Git & GitHub
+- Linux
+- Terraform
+- Python
+- MySQL
+
+## 📌 Projects
+
+### AWS DevOps CI/CD Pipeline
+- Automated application deployment using Jenkins
+- Integrated GitHub with CI/CD pipelines
+- Dockerized applications for deployment
+
+### Kubernetes Deployment
+- Created Deployments, Services, PVs, and PVCs
+- Managed containerized applications on Kubernetes
+
+### Fake Reviews Detection using Machine Learning
+- Used LSTM, K-Means Clustering, and PageRank
+- Built with Python and Machine Learning
+
+## 🌐 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/mohammed-shuaib-a-b128b9269
+- GitHub: github.com/mohammedshuaib3232
+
+## 📊 GitHub Stats
+
+Always learning and building new projects in Cloud & DevOps.
